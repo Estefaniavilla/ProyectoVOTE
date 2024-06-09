@@ -1,0 +1,20 @@
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Form1.resources
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Form2.resources
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Resources.resources
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.vbproj.GenerateResource.cache
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.AssemblyInfoInputs.cache
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.AssemblyInfo.vb
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.vbproj.CoreCompileInputs.cache
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.sourcelink.json
+D:\alexa\Workspace\Proyecto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.exe
+D:\alexa\Workspace\Proyecto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.deps.json
+D:\alexa\Workspace\Proyecto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.runtimeconfig.json
+D:\alexa\Workspace\Proyecto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.dll
+D:\alexa\Workspace\Proyecto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.pdb
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.dll
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\refint\Proyecto VB.dll
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.pdb
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.genruntimeconfig.cache
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\ref\Proyecto VB.dll
+D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Form3.resources
