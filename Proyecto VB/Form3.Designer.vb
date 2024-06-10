@@ -22,52 +22,52 @@ Partial Class Form3
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        PictureBox1 = New PictureBox()
-        PictureBox2 = New PictureBox()
-        PictureBox3 = New PictureBox()
+        pbPri = New PictureBox()
+        pb1Pan = New PictureBox()
+        pbMorena = New PictureBox()
         btnVote1 = New Button()
         btnVote2 = New Button()
         btnVote3 = New Button()
         Label1 = New Label()
-        TextBox1 = New TextBox()
+        txtSuggetion = New TextBox()
         Button2 = New Button()
         lblMensaje = New Label()
         lblMensaje2 = New Label()
         lblMensaje3 = New Label()
-        CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
-        CType(PictureBox2, ComponentModel.ISupportInitialize).BeginInit()
-        CType(PictureBox3, ComponentModel.ISupportInitialize).BeginInit()
+        CType(pbPri, ComponentModel.ISupportInitialize).BeginInit()
+        CType(pb1Pan, ComponentModel.ISupportInitialize).BeginInit()
+        CType(pbMorena, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
-        ' PictureBox1
+        ' pbPri
         ' 
-        PictureBox1.Image = My.Resources.Resources.PRI__partido_revolucionario_institucional__logo__Mexico_
-        PictureBox1.Location = New Point(43, 26)
-        PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(117, 114)
-        PictureBox1.SizeMode = PictureBoxSizeMode.StretchImage
-        PictureBox1.TabIndex = 0
-        PictureBox1.TabStop = False
+        pbPri.Image = My.Resources.Resources.PRI__partido_revolucionario_institucional__logo__Mexico_
+        pbPri.Location = New Point(43, 26)
+        pbPri.Name = "pbPri"
+        pbPri.Size = New Size(117, 114)
+        pbPri.SizeMode = PictureBoxSizeMode.StretchImage
+        pbPri.TabIndex = 0
+        pbPri.TabStop = False
         ' 
-        ' PictureBox2
+        ' pb1Pan
         ' 
-        PictureBox2.Image = My.Resources.Resources.descarga
-        PictureBox2.Location = New Point(43, 159)
-        PictureBox2.Name = "PictureBox2"
-        PictureBox2.Size = New Size(117, 115)
-        PictureBox2.SizeMode = PictureBoxSizeMode.StretchImage
-        PictureBox2.TabIndex = 1
-        PictureBox2.TabStop = False
+        pb1Pan.Image = My.Resources.Resources.descarga
+        pb1Pan.Location = New Point(43, 159)
+        pb1Pan.Name = "pb1Pan"
+        pb1Pan.Size = New Size(117, 115)
+        pb1Pan.SizeMode = PictureBoxSizeMode.StretchImage
+        pb1Pan.TabIndex = 1
+        pb1Pan.TabStop = False
         ' 
-        ' PictureBox3
+        ' pbMorena
         ' 
-        PictureBox3.Image = My.Resources.Resources._1024px_Morena_partido_logo
-        PictureBox3.Location = New Point(43, 289)
-        PictureBox3.Name = "PictureBox3"
-        PictureBox3.Size = New Size(117, 114)
-        PictureBox3.SizeMode = PictureBoxSizeMode.StretchImage
-        PictureBox3.TabIndex = 2
-        PictureBox3.TabStop = False
+        pbMorena.Image = My.Resources.Resources._1024px_Morena_partido_logo
+        pbMorena.Location = New Point(43, 289)
+        pbMorena.Name = "pbMorena"
+        pbMorena.Size = New Size(117, 114)
+        pbMorena.SizeMode = PictureBoxSizeMode.StretchImage
+        pbMorena.TabIndex = 2
+        pbMorena.TabStop = False
         ' 
         ' btnVote1
         ' 
@@ -113,13 +113,13 @@ Partial Class Form3
         Label1.TabIndex = 6
         Label1.Text = "Suggestion Box:"
         ' 
-        ' TextBox1
+        ' txtSuggetion
         ' 
-        TextBox1.Location = New Point(555, 170)
-        TextBox1.Multiline = True
-        TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(298, 104)
-        TextBox1.TabIndex = 4
+        txtSuggetion.Location = New Point(555, 170)
+        txtSuggetion.Multiline = True
+        txtSuggetion.Name = "txtSuggetion"
+        txtSuggetion.Size = New Size(298, 104)
+        txtSuggetion.TabIndex = 4
         ' 
         ' Button2
         ' 
@@ -171,31 +171,31 @@ Partial Class Form3
         Controls.Add(lblMensaje2)
         Controls.Add(lblMensaje)
         Controls.Add(Button2)
-        Controls.Add(TextBox1)
+        Controls.Add(txtSuggetion)
         Controls.Add(Label1)
         Controls.Add(btnVote3)
         Controls.Add(btnVote2)
         Controls.Add(btnVote1)
-        Controls.Add(PictureBox3)
-        Controls.Add(PictureBox2)
-        Controls.Add(PictureBox1)
+        Controls.Add(pbMorena)
+        Controls.Add(pb1Pan)
+        Controls.Add(pbPri)
         Name = "Form3"
         Text = "Form3"
-        CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()
-        CType(PictureBox2, ComponentModel.ISupportInitialize).EndInit()
-        CType(PictureBox3, ComponentModel.ISupportInitialize).EndInit()
+        CType(pbPri, ComponentModel.ISupportInitialize).EndInit()
+        CType(pb1Pan, ComponentModel.ISupportInitialize).EndInit()
+        CType(pbMorena, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
 
-    Friend WithEvents PictureBox1 As PictureBox
-    Friend WithEvents PictureBox2 As PictureBox
-    Friend WithEvents PictureBox3 As PictureBox
+    Friend WithEvents pbPri As PictureBox
+    Friend WithEvents pb1Pan As PictureBox
+    Friend WithEvents pbMorena As PictureBox
     Friend WithEvents btnVote1 As Button
     Friend WithEvents btnVote2 As Button
     Friend WithEvents btnVote3 As Button
     Friend WithEvents Label1 As Label
-    Private WithEvents TextBox1 As TextBox
+    Private WithEvents txtSuggetion As TextBox
     Friend WithEvents Button2 As Button
     Friend WithEvents lblMensaje As Label
     Friend WithEvents lblMensaje2 As Label

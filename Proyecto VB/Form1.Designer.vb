@@ -50,9 +50,11 @@ Partial Class Form1
         ' 
         ' PictureBox1
         ' 
+        PictureBox1.Image = My.Resources.Resources._6182602
         PictureBox1.Location = New Point(226, 187)
         PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(301, 218)
+        PictureBox1.Size = New Size(305, 237)
+        PictureBox1.SizeMode = PictureBoxSizeMode.StretchImage
         PictureBox1.TabIndex = 2
         PictureBox1.TabStop = False
         ' 

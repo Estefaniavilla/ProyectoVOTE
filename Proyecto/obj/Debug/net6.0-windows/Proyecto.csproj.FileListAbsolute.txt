@@ -18,3 +18,6 @@ D:\alexa\Workspace\Proyecto\Proyecto\obj\Debug\net6.0-windows\refint\Proyecto.dl
 D:\alexa\Workspace\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.pdb
 D:\alexa\Workspace\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
 D:\alexa\Workspace\Proyecto\Proyecto\obj\Debug\net6.0-windows\ref\Proyecto.dll
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto\obj\Debug\net6.0-windows\Proyecto.pdb

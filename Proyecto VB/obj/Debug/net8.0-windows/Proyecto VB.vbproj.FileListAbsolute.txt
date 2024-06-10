@@ -18,3 +18,23 @@ D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.pdb
 D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.genruntimeconfig.cache
 D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\ref\Proyecto VB.dll
 D:\alexa\Workspace\Proyecto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Form3.resources
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.exe
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.deps.json
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.runtimeconfig.json
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.dll
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\bin\Debug\net8.0-windows\Proyecto VB.pdb
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Form1.resources
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Form2.resources
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Form3.resources
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto_VB.Resources.resources
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.vbproj.GenerateResource.cache
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.AssemblyInfoInputs.cache
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.AssemblyInfo.vb
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.vbproj.CoreCompileInputs.cache
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.sourcelink.json
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.dll
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\refint\Proyecto VB.dll
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.pdb
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\Proyecto VB.genruntimeconfig.cache
+C:\Users\jovan\OneDrive\Escritorio\estefania\Proyecto\ProyectoVoto\Proyecto VB\obj\Debug\net8.0-windows\ref\Proyecto VB.dll
