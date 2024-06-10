@@ -2,6 +2,7 @@
 Public Class Form3
     Public Property Vote As String
     Public Property NewVote As String
+    Public Property NewVote2 As String
 
     Private Sub btnVote1_Click(sender As Object, e As EventArgs) Handles btnVote1.Click
         lblMensaje.Text = "Thank you for your vote!!"
